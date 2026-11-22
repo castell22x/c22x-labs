@@ -3,9 +3,9 @@
 Ciao! Questo è il sito di C22x Labs.
 Progetti tech, gaming e community, fatti con passione.
 
-Sito GitHub: https://castell22x.github.io/c22x-labs
+Online su GitHub: https://castell22x.github.io/c22x-labs
 
-Online anche su: https://c22x-labs.nxtdev.xyz 
+E sul nostro sottodominio ufficiale: https://c22x-labs.nxtdev.xyz 
 
 ## Progetti
 
