@@ -30,4 +30,4 @@ E sul nostro sottodominio ufficiale: https://c22x-labs.nxtdev.xyz
 - Email: c22x.labs@proton.me
 
 Fatto con il 💜 da Castell22x
-🔗👉https://linktr.ee/castell22x_
+🔗👉https://linktr.ee/castell22x
